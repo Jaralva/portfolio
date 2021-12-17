@@ -1,0 +1,26 @@
+.projectContainer{
+    display: flex;
+    border: 1px solid;
+    flex-direction: column;
+}
+
+.projectPicture {
+    width: 350px;
+    height: 350px;
+    background-color:  sandybrown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.projectlink {
+    background-color: silver;
+}
+
+.projectName {
+    background-color: silver;
+}
+
+.projectDescription{
+    background-color: silver;
+}
